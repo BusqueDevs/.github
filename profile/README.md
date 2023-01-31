@@ -7,7 +7,5 @@ Oferecemos um catálogo com diversos programadores esperando por você, onde voc
 
 ## 📌 Suporte
 - 🖥️ **Plataforma:** [busquedevs.com.br](https://busquedevs.com.br)
-- ⚙️ **Painel de Controle:** [painel.busquedevs.com.br](https://painel.busquedevs.com.br) 
-- 🛰 **Servidor:** [api.busquedevs.com.br](https://api.busquedevs.com.br)
 
 ###### Feito com 🤎 por [Tiago Ryan](https://www.linkedin.com/in/tiagoryan).
